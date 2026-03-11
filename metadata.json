@@ -1,0 +1,5 @@
+{
+  "name": "DevStory",
+  "description": "AI-powered developer storytelling from GitHub activity. Convert your commits into ready-to-publish social posts and visual timelines.",
+  "requestFramePermissions": []
+}
